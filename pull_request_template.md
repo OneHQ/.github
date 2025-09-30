@@ -21,4 +21,4 @@ Checklist
 - [ ] I have added/updated appropriate tests and evidence
 - [ ] I considered security/privacy impact (link short note)
 - [ ] I updated docs/runbook if needed
-- [ ] I added a changeset for this PR
+- [ ] I added a changelog entry for this PR
