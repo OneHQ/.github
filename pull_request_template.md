@@ -4,7 +4,7 @@ Please describe your pull request and any relevant information.
 
 Risk Level
 -----------
- ☐ Low ☐ Med ☐ High
+ [ ] Low [ ] Med [ ] High
 
 Rollback Plan
 -----------
